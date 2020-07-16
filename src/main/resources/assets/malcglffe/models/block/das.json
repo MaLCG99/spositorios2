@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "malcglffe:blocks/ads",
+    "up": "malcglffe:blocks/ads",
+    "north": "malcglffe:blocks/ads",
+    "east": "malcglffe:blocks/ads",
+    "south": "malcglffe:blocks/ads",
+    "west": "malcglffe:blocks/ads",
+    "particle": "malcglffe:blocks/ads"
+  }
+}

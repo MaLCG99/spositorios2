@@ -19,10 +19,10 @@ import java.util.List;
 import java.util.Collections;
 
 @MalcglffeModElements.ModElement.Tag
-public class SdfjnafdlasdfBlock extends MalcglffeModElements.ModElement {
-	@ObjectHolder("malcglffe:sdfjnafdlasdf")
+public class DasBlock extends MalcglffeModElements.ModElement {
+	@ObjectHolder("malcglffe:das")
 	public static final Block block = null;
-	public SdfjnafdlasdfBlock(MalcglffeModElements instance) {
+	public DasBlock(MalcglffeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -35,7 +35,7 @@ public class SdfjnafdlasdfBlock extends MalcglffeModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).lightValue(0));
-			setRegistryName("sdfjnafdlasdf");
+			setRegistryName("das");
 		}
 
 		@Override

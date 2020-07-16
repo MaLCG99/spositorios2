@@ -2,20 +2,20 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Sdfjnafdlasdf",
+      "name": "Das",
       "type": "block",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sdfjnafdlasdf"
+      "registry_name": "das"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.malcglffe.sdfjnafdlasdf": "Sdfjnafdlasdf"
+      "block.malcglffe.das": "Das"
     }
   },
   "workspaceSettings": {
